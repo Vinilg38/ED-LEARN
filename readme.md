@@ -3,9 +3,6 @@ An educational website for students and programmers 😊😊😊
 
 ![](pcView.png)
 
-Try this out::  
-https://roshan9419.github.io/LearnEd_E-learning_Website/
-
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
 exams like JEE-Main, JEE-Advanced, GATE, etc. Students can clear their doubts  
@@ -22,4 +19,4 @@ Interview questions for students who are preparing for placements.
    
 It is completely responsive website, to provide smooth experience...😎  
 
-If you like my project, give it a star  😁😁😁
+
